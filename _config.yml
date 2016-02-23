@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2688172
+color:
+  saturation: 0.3446418
+  lightness: 0.4711395
+  brandStrength: 0.2007169
+  brandColors:
+    - '#FCCF8F'
+    - '#1D1617'
+    - '#CFA270'
+    - '#543828'
+    - '#915439'
+  rhythmicContrast: 0.0183254
+name: Camryn
