@@ -1,26 +1,26 @@
-color:
-  saturation: 0.3446418
-  brandStrength: 0.2007169
-  rhythmicContrast: 0.0183254
-  brandColors:
-    - '#FCCF8F'
-    - '#1D1617'
-    - '#CFA270'
-    - '#543828'
-    - '#915439'
-  lightness: 0.4711395
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.2688172
+color:
+  saturation: 0.3446418
+  brandStrength: 0.2007169
+  lightness: 0.4711395
+  brandColors:
+    - '#FFFFFC'
+    - '#0F0D16'
+    - '#2F166E'
+    - '#AC6E65'
+    - '#EAA29A'
+  rhythmicContrast: 0.0183254
+layout_spectrum: 1
 name: Camryn
