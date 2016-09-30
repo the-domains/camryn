@@ -1,5 +1,6 @@
-layout_spectrum: 0.01539923157542944
 typography_spectrum: 0.6806590554770082
+content_rating:
+  adult: false
 color:
   saturation: 0.2623859690502286
   brandStrength: 0.5902093688491732
@@ -11,9 +12,8 @@ color:
     - '#081028'
     - '#F0CEB7'
   lightness: 0.35198666667565703
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.01539923157542944
 name: cammywilson.com
 collections:
   - index:
@@ -27,7 +27,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Hi, I''m Cammy!'
+title: Welcome To Photography By Cammy
 description: WhazzzzUUUUPPP?!
 purpose:
   - type: external
