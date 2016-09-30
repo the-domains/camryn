@@ -1,14 +1,20 @@
+typography_spectrum: 0.05068990960717201
+content_rating:
+  adult: false
 color:
-  saturation: 0.3446418
-  brandStrength: 0.2007169
-  rhythmicContrast: 0.0183254
+  saturation: 0.2623859690502286
+  brandStrength: 0.5902093688491732
+  rhythmicContrast: 0.7158816736191511
   brandColors:
-    - '#FFFFFC'
-    - '#0F0D16'
-    - '#2F166E'
-    - '#AC6E65'
-    - '#EAA29A'
-  lightness: 0.4711395
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
+  lightness: 0.35198666667565703
+github: true
+layout_spectrum: 0.6956361727789044
+name: cammywilson.com
 collections:
   - index:
       path: /
@@ -21,6 +27,12 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
-typography_spectrum: 0.2688172
-name: Camryn
+title: 'Hi, I''m Cammy!'
+description: WhazzzzUUUUPPP?!
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/profile.php?id=100008562606839'
+    label: Stalk me on Facebook
+  - type: external
+    url: 'http://www.twitter.com/#!/CamrynWilson'
+    label: Let's Tweet!
