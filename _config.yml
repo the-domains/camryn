@@ -27,7 +27,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Welcome To Photography By Cammy
+title: Photography By Cammy
 description: WhazzzzUUUUPPP?!
 purpose:
   - type: external
