@@ -29,7 +29,4 @@ collections:
       number: 10
 title: Photography By Cammy
 description: all images © 2016 Camryn Wilson
-purpose:
-  - type: external
-    url: 'http://www.twitter.com/#!/CamrynWilson'
-    label: Let's Tweet!
+purpose: []
